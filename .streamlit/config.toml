@@ -3,5 +3,5 @@ base="light"
 primaryColor="#038ffd"
 secondaryBackgroundColor="#e8e8e8"
 [server]
-sslCertFile = '/etc/letsencrypt/live/trueosint.com/privkey.pem'
-sslKeyFile = '/etc/letsencrypt/live/trueosint.com/private.key'
+sslCertFile = '/etc/letsencrypt/live/trueosint.com/fullchain.pem'
+sslKeyFile = '/etc/letsencrypt/live/trueosint.com/privkey.pem'
