@@ -1,0 +1,5 @@
+streamlit
+pydentic
+firecrawl
+json requests
+os
